@@ -17,7 +17,9 @@ The chatbot is powered by OpenAI's GPT model, making it capable of natural, huma
 Features & Functionality
 
 
+
 1️⃣ User Authentication (Google, Facebook, Email)
+
 
 
 🔹 Users can log in using:
@@ -34,7 +36,11 @@ Features & Functionality
 
 🔹 Spring Security & OAuth 2.0 will handle authentication.
 
+
+
 2️⃣ Two Chat Modes
+
+
 
 🔵 Normal Mode (Chat History Enabled)
 
@@ -54,6 +60,8 @@ Features & Functionality
 
 3️⃣ AI-Powered Chat (OpenAI API Integration)
 
+
+
 🔹 The chatbot will use OpenAI’s GPT model to generate intelligent responses.
 
 🔹 The user types a query → The backend sends it to OpenAI API → The AI replies.
@@ -62,6 +70,8 @@ Features & Functionality
 
 4️⃣ Chat History (Only for Normal Mode)
 
+
+
 🔹 Conversations are saved in MySQL and linked to each user.
 
 🔹 Users can view old conversations when they log in.
@@ -69,6 +79,8 @@ Features & Functionality
 🔹 If Privacy Mode is enabled, chat history is not stored.
 
 5️⃣ User Profile & Settings
+
+
 
 🔹 Users can update profile details (name, profile pic).
 
