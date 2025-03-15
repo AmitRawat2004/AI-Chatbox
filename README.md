@@ -1,10 +1,18 @@
 AI Chatbot with Google & Facebook Authentication + Privacy Mode
+
+
 📌 Project Description
+
+
 This AI-powered chatbot allows users to communicate with an intelligent assistant while offering secure login options and a privacy mode for enhanced security. Users can log in via Google, Facebook, or email, then choose between:
+
 
 🔵 Normal Mode (saves chat history)
 🔴 Privacy Mode (does not save conversations)
+
+
 The chatbot is powered by OpenAI's GPT model, making it capable of natural, human-like conversations.
+
 
 Features & Functionality
 1️⃣ User Authentication (Google, Facebook, Email)
